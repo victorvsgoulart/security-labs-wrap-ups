@@ -1,0 +1,1 @@
+alert icmp any any -> any any (msg:"ALERTA BLUE TEAM: Tráfego Ping Detectado"; sid:1000001; rev:1;)
