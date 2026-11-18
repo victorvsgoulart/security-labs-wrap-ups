@@ -1,6 +1,6 @@
 #Português
 
-Relatório Técnico: Engenharia de Automação Blue Team — Triagem de Alertas Suricata e Correlação Splunk (SPL) em Bash Puro
+Relatório Técnico: Engenharia de Automação Blue Team — Triagem de Alertas Suricata e Correlação Splunk (SPL) em Shell Puro
 
 1. Reconhecimento do Ambiente e Arquitetura de Execução
 
