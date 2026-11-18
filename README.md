@@ -5,7 +5,7 @@ Documentation and practical cybersecurity labs wrap-ups.
 
 # Path:
 - **Technologist Degree in Information Security** (In Progress).
-- **Google Cybersecurity Professional Certificate** (In Progress).
+- **Google Cybersecurity Professional Certificate**.
 - **Comptia Security+** (In Progress).
 
 #  Skills:
