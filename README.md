@@ -1,29 +1,35 @@
 # security-labs-wrap-ups
-Documentation and practical cybersecurity labs wrap-ups.
+Hands-on homelab documentation covering **IT Infrastructure, Networking (NOC), Systems Administration (Linux/Windows), Operational Automation, Information Security (SOC), and Governance (GRC)**.
 
 ---
 
-# Path:
-- **Technologist Degree in Information Security** (In Progress).
-- **Google Cybersecurity Professional Certificate**.
-- **Comptia Security+** (In Progress).
+## Education & Certifications
+- **Technologist Degree in Cybersecurity Management** — Uninter *(In Progress — 2nd Semester)*[cite: 17, 18]
+- **Google Cybersecurity Professional Certificate** — Google / Coursera *(Nov/2026)*
+- **Cybersecurity Essentials (LFC108)** — The Linux Foundation *(Apr/2026)*
+- **CompTIA Security+** *(In Progress)*
+- **Technical Degree in Business Administration** — Colégio Estadual Rodrigues Alves *(2025)*[cite: 18]
 
-#  Skills:
-- **Languages:** Native Fluent Brazilian Portuguese, Advanced English & Intermediate Spanish.
-- **Operating Systems:** Debian & Windows.
-- **Tools:** Bash Scriptng, Python, SQL, Splunk, Suricata, Wireshark, Tcpdump, Tshark, Zeek, Sysmon, PowerShell & CMD.
+## Technical Stack & Core Competencies
+- **Operating Systems & Support (N1/N2):** GNU/Linux (Debian) & Windows — system administration, OS deployment, user/permission management, hardware/software diagnostics, and N1/N2 troubleshooting[cite: 17].
+- **Networking & NOC Operations:** TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, Telnet, SNMP, VPN; connectivity diagnostics (`ping`, `traceroute`, `ss`/`netstat`, `nslookup`); basic router and switch configuration[cite: 17].
+- **Scripting, Automation & Data:** Bash Scripting, PowerShell, Python, SQL — operational routine automation, log parsing, and database queries[cite: 17].
+- **Security Operations (SOC) & GRC:** Suricata (NIDS), Splunk (SIEM/SPL), `iptables`, Wireshark, `tcpdump`, `tshark`, Zeek, Sysmon; incident response, access control, risk management, LGPD compliance practices, and NIST CSF[cite: 16, 17].
+- **Languages:** Native Portuguese | Advanced English (reading, writing, speaking, and listening)[cite: 17].
 
 ---
 
-Index
+## Labs Index
 
-##Lab 01: Network Security & Detection Engineering
-*   **[Lab 01: Detection Engineering and NIDS Rule Validation with Suricata](./Lab-01-NIDS-Rules-Suricata/)**
-    *   *Focus:* CLI packet acquisition with `tcpdump`, custom signature writing, `fast.log` parsing, and passive fingerprinting (TTL analysis) via Wireshark. (Bilingual Report: PT-BR / EN).
+### Lab 01 — Network Security & Traffic Analysis (NOC / SOC)
+* **[Lab 01: Detection Engineering and NIDS Rule Validation with Suricata](./Lab-01-NIDS-Rules-Suricata/)**
+  * *Focus:* CLI packet capture (`tcpdump`), custom Suricata signatures, `fast.log` analysis, and passive OS fingerprinting (TTL/TCP-IP analysis) via Wireshark. *(Bilingual Report: PT-BR / EN)*.
 
-## Lab 02: Blue Team Automation & Incident Triage
+### Lab 02 — Systems Automation & Incident Response (Linux / Blue Team)
 * **[Lab 02: Suricata Alert Triage and Splunk Correlation in Pure Bash](./Lab-02-Bash-SIEM-Triage/)**
-  * *Focus:* Pure Bash orchestration (`BASH_REMATCH`, associative arrays), parent-process memory scope preservation (`$BASH_SUBSHELL`), Splunk REST API (SPL) correlation, and automated `iptables` containment. (Bilingual Report: PT-BR / EN).
+  * *Focus:* Pure Bash operational scripting (`BASH_REMATCH`, associative arrays), parent-process memory scope management (`$BASH_SUBSHELL`), Splunk REST API (SPL) integration, and `iptables` firewall rule staging. *(Bilingual Report: PT-BR / EN)*.
+
 
 ---
-*Administrated by Victor V. S. Goulart.
+
+*Maintained by **Victor Vitienzo da Silva Goulart**[cite: 17] | [LinkedIn](https://www.linkedin.com/in/victor-goulart-155a22400)[cite: 17]*
