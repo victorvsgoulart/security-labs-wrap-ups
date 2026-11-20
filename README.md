@@ -31,7 +31,8 @@ Hands-on homelab documentation covering **IT Infrastructure, Networking (NOC), S
 
 ### Lab 03 — Network Operations & OSI Troubleshooting (NOC / Networking)
 * **[Lab 03: Interactive Packet Flow, OSI Model & Network Diagnostics Simulator](./Lab-03-NOC-Lab-Claude/)**
-  * *Focus:* Interactive browser-based simulation (LAN-to-Wi-Fi) covering MAC address learning, ARP resolution, router forwarding (TTL & L2 header rewrite), DNS `tcpdump` diagnostics (`ICMP port unreachable`), and WPA2 4-way handshake. *(PT-BR)* **Jogue aqui:** **https://victorvsgoulart.github.io/security-labs-wrap-ups/Lab-03-NOC-Lab-Claude/**
+  * *Focus:* Interactive browser-based simulation (LAN-to-Wi-Fi) covering MAC address learning, ARP resolution, router forwarding (TTL & L2 header rewrite), DNS `tcpdump` diagnostics (`ICMP port unreachable`), and WPA2 4-way handshake. *(PT-BR)* 
+*  **Jogue aqui:** **https://victorvsgoulart.github.io/security-labs-wrap-ups/Lab-03-NOC-Lab-Claude/**
 ---
 
 *Maintained by **Victor Vitienzo da Silva Goulart** | **[LinkedIn](https://www.linkedin.com/in/victor-goulart-155a22400)**
