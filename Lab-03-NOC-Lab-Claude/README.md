@@ -1,4 +1,4 @@
-**Simulador Interativo de Operações de Rede (NOC) e Triagem de Incidentes.**
+**Simulador Interativo de Operações de Rede (NOC) e Triagem de Incidentes planejado com Deepseek e desenvolvido com Claude.**
 
 **Jogue aqui:**
 
