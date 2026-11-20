@@ -29,11 +29,10 @@ Hands-on homelab documentation covering **IT Infrastructure, Networking (NOC), S
 * **[Lab 02: Suricata Alert Triage and Splunk Correlation in Pure Bash](./Lab-02-Bash-SIEM-Triage/)**
   * *Focus:* Pure Bash operational scripting (`BASH_REMATCH`, associative arrays), parent-process memory scope management (`$BASH_SUBSHELL`), Splunk REST API (SPL) integration, and `iptables` firewall rule staging. *(Bilingual Report: PT-BR / EN)*.
 
-### Lab 03: Interactive NOC Operations & Troubleshooting Simulator
-**Simulador Interativo de Operações de Rede (NOC) e Triagem de Incidentes**
-
-* **[![Play Live Demo](https://img.shields.io/badge/▶_Jogar_Agora_%2F_Play_Live_Demo-NOC_Lab_Simulator-2ea44f?style=for-the-badge)](https://victorvsgoulart.github.io/security-labs-wrap-ups/Lab-03-NOC-Lab-Claude/)**
-
+### Lab 03 — Network Operations & OSI Troubleshooting (NOC / Networking)
+* **[Lab 03: Interactive Packet Flow, OSI Model & Network Diagnostics Simulator](./Lab-03-NOC-Lab-Claude/)**
+  * *Focus:* Interactive browser-based simulation (LAN-to-Wi-Fi) covering MAC address learning, ARP resolution, router forwarding (TTL & L2 header rewrite), DNS `tcpdump` diagnostics (`ICMP port unreachable`), and WPA2 4-way handshake. *(PT-BR)*
+[![Play Live Demo](https://img.shields.io/badge/▶_Jogar_Agora_%2F_Play_Live_Demo-NOC_Lab_Simulator-2ea44f?style=for-the-badge)](https://victorvsgoulart.github.io/security-labs-wrap-ups/Lab-03-NOC-Lab-Claude/)
 ---
 
 *Maintained by **Victor Vitienzo da Silva Goulart** | **[LinkedIn](https://www.linkedin.com/in/victor-goulart-155a22400)**
