@@ -4,18 +4,18 @@ Hands-on homelab documentation covering **IT Infrastructure, Networking (NOC), S
 ---
 
 ## Education & Certifications
-- **Technologist Degree in Cybersecurity Management** — Uninter *(In Progress — 2nd Semester)*[cite: 17, 18]
+- **Technologist Degree in Cybersecurity Management** — Uninter *(In Progress — 2nd Semester)*
 - **Google Cybersecurity Professional Certificate** — Google / Coursera *(Nov/2026)*
 - **Cybersecurity Essentials (LFC108)** — The Linux Foundation *(Apr/2026)*
 - **CompTIA Security+** *(In Progress)*
-- **Technical Degree in Business Administration** — Colégio Estadual Rodrigues Alves *(2025)*[cite: 18]
+- **Technical Degree in Business Administration** — Colégio Estadual Rodrigues Alves *(2025)*
 
 ## Technical Stack & Core Competencies
-- **Operating Systems & Support (N1/N2):** GNU/Linux (Debian) & Windows — system administration, OS deployment, user/permission management, hardware/software diagnostics, and N1/N2 troubleshooting[cite: 17].
-- **Networking & NOC Operations:** TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, Telnet, SNMP, VPN; connectivity diagnostics (`ping`, `traceroute`, `ss`/`netstat`, `nslookup`); basic router and switch configuration[cite: 17].
-- **Scripting, Automation & Data:** Bash Scripting, PowerShell, Python, SQL — operational routine automation, log parsing, and database queries[cite: 17].
-- **Security Operations (SOC) & GRC:** Suricata (NIDS), Splunk (SIEM/SPL), `iptables`, Wireshark, `tcpdump`, `tshark`, Zeek, Sysmon; incident response, access control, risk management, LGPD compliance practices, and NIST CSF[cite: 16, 17].
-- **Languages:** Native Portuguese | Advanced English (reading, writing, speaking, and listening)[cite: 17].
+- **Operating Systems & Support (N1/N2):** GNU/Linux (Debian) & Windows — system administration, OS deployment, user/permission management, hardware/software diagnostics, and N1/N2 troubleshooting.
+- **Networking & NOC Operations:** TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH, Telnet, SNMP, VPN; connectivity diagnostics (`ping`, `traceroute`, `ss`/`netstat`, `nslookup`); basic router and switch configuration.
+- **Scripting, Automation & Data:** Bash Scripting, PowerShell, Python, SQL — operational routine automation, log parsing, and database queries.
+- **Security Operations (SOC) & GRC:** Suricata (NIDS), Splunk (SIEM/SPL), `iptables`, Wireshark, `tcpdump`, `tshark`, Zeek, Sysmon; incident response, access control, risk management, LGPD compliance practices, and NIST CSF.
+- **Languages:** Native Portuguese | Advanced English (reading, writing, speaking, and listening).
 
 ---
 
@@ -32,4 +32,4 @@ Hands-on homelab documentation covering **IT Infrastructure, Networking (NOC), S
 
 ---
 
-*Maintained by **Victor Vitienzo da Silva Goulart**[cite: 17] | [LinkedIn](https://www.linkedin.com/in/victor-goulart-155a22400)[cite: 17]*
+*Maintained by **Victor Vitienzo da Silva Goulart** | **[LinkedIn](https://www.linkedin.com/in/victor-goulart-155a22400)**
