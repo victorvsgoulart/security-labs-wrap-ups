@@ -1,4 +1,4 @@
-**Simulador Interativo de Redes, Modelo OSI e Diagnóstico de Conectividade (da LAN ao Wi-Fi), com visualização de encapsulamento PDU, tabelas dinâmicas (MAC/ARP/Rotas) e leitura de `tcpdump` em tempo real.**
+**Simulador Interativo de Redes, Modelo OSI e Diagnóstico de Conectividade (da LAN ao Wi-Fi), com visualização de encapsulamento PDU, tabelas dinâmicas (MAC/ARP/Rotas) e leitura de `tcpdump` em tempo real planejado com Deepseek e gerado com Claude.**
 
 **Jogue aqui:**
 
