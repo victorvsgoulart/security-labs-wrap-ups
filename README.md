@@ -1,5 +1,5 @@
 # security-labs-wrap-ups
-Hands-on homelab documentation covering **IT Infrastructure, Networking (NOC), Systems Administration (Linux/Windows), Operational Automation, Information Security (SOC), and Governance (GRC)**.
+Hands-on homelab documentation covering **IT Infrastructure, Networking (NOC), Systems Administration (Linux/Windows), Operational Automation, Cibersecurity (SOC), and Governance (GRC)**.
 
 ---
 
